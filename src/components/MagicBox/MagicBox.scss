@@ -1,0 +1,8 @@
+.magic-color {
+    $box-size: 200px;
+
+    display: inline-block;
+    width: $box-size;
+    height: $box-size;
+    border-radius: 50%;
+}
